@@ -77,8 +77,8 @@ if(isset($_SESSION["id_medico"])){
 
                     <button type="button" class="btnRegLog smBtn bgDarkOrange whiteTx alignCenter">Ingresar</button>
 
-                    <p class="lightGrayTx alignCenter">¿Aún no tienes una cuenta?</p>
-                    <a href="registro.php" class="noDecoration darkOrangeTx pointer alignCenter">Regístrate</a>
+                    <!-- <p class="lightGrayTx alignCenter">¿Aún no tienes una cuenta?</p>
+                    <a href="registro.php" class="noDecoration darkOrangeTx pointer alignCenter">Regístrate</a> -->
                 </div>
             </form>
         </section>
